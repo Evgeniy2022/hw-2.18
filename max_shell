@@ -1,0 +1,2 @@
+//getent passwd $USER
+//max:x:1001:1001::/home/max:/usr/bin/bash
