@@ -1,4 +1,4 @@
-//'PS1="[$(date "+%a %b %d")]max@ws01 "'
-//echo 'PS1="[$(date "+%a %b %d")]max@ws01 "' >> ~/.profile
-//source ~/.profile
-//[Mon Aug 24]max@ws01 
+'PS1="[$(date "+%a %b %d")]max@ws01 "'
+echo 'PS1="[$(date "+%a %b %d")]max@ws01 "' >> ~/.profile
+source ~/.profile
+[Mon Aug 24]max@ws01 
