@@ -1,0 +1,5 @@
+grep -r "jammy-security universe" /etc/apt/
+/etc/apt/sources.list:deb http://security.ubuntu.com/ubuntu jammy-security universe
+/etc/apt/sources.list:# deb-src http://security.ubuntu.com/ubuntu jammy-security universe
+sudo add-apt-repository --remove --component universe "deb http://security.ubuntu.com/ubuntu jammy-secur
+ity universe"
