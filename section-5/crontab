@@ -1,0 +1,4 @@
+sudo crontab -e
+crontab: installing new crontab
+crontab -l
+0 2 * * * apt update && apt upgrade -y

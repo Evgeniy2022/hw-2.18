@@ -1,0 +1,2 @@
+/home/max/link_to_file777
+echo "ln -s ~/empty/file777 ~/link_to_file777" > link
